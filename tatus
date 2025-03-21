@@ -1,0 +1,49 @@
+[33mcommit 8d95d3f124ee22aca6b249e3c762840922adf29c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32manouk[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: mahr-anouk <anouk.mahr.001@uni.student.lu>
+Date:   Tue Mar 18 10:41:09 2025 +0100
+
+    Added my files from last week to Anouk; map MyBetterLevel doesn't fully work, but all the stuff should be there
+
+[33mcommit 8bd93fdccde0ad4047906b4b34530005027508a0[m
+Author: Jan Schwegler <schwegler.jan@gmail.com>
+Date:   Tue Mar 11 14:50:06 2025 +0100
+
+    Update README.md
+
+[33mcommit 38a87ba9271d2c8df52fee53fbac34398b441efd[m
+Author: Jan Schwegler <schwegler.jan@gmail.com>
+Date:   Tue Mar 11 12:08:24 2025 +0100
+
+    add config & rename unreal file
+
+[33mcommit 4f6cd0c3179657168da21922e3e24343e7b3ec45[m
+Author: Jan Schwegler <schwegler.jan@gmail.com>
+Date:   Tue Mar 11 09:57:59 2025 +0100
+
+    restructure git and change gitignore
+
+[33mcommit fbcbe2640298ddf01aca29e751866c75ab77e59c[m
+Author: mahr-anouk <anouk.mahr.001@uni.student.lu>
+Date:   Fri Mar 7 14:51:42 2025 +0100
+
+    Anouk procedural files
+
+[33mcommit 2187d6f1e73b8bee7f38d3a07c619ce5a286d49e[m
+Author: mf_doodoo <ardit.stojkaj@stud.hslu.ch>
+Date:   Thu Mar 6 14:00:11 2025 +0100
+
+    ?????
+    
+    keine Ahnung habe nichts geändert
+
+[33mcommit 4301382a39f2a9a65c91751d2c3e43fab46b5c21[m
+Author: mf_doodoo <ardit.stojkaj@stud.hslu.ch>
+Date:   Thu Mar 6 13:59:30 2025 +0100
+
+    Test Projekt hochgeladen
+
+[33mcommit 1221d405c59a038330a8106869116f3f5fcd7c7e[m
+Author: Jan Schwegler <88095095+JanSchwegler@users.noreply.github.com>
+Date:   Mon Mar 3 15:17:28 2025 +0100
+
+    Initial commit
